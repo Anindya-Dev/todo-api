@@ -241,7 +241,3 @@ It is automatically created when the application runs.
 * Boolean completion tracking for todos
 
 ---
-
-# 📜 License
-
-This project is open-source and available for learning and educational purposes.
